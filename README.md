@@ -48,6 +48,10 @@ Main processing steps:
 
 [View Looker Studio Dashboard](https://datastudio.google.com/s/gw2dubRLrcg)
 
+## Google Sheet
+
+[View Google Sheet](https://docs.google.com/spreadsheets/d/1UuiMfCKh4I-rba3dHrfzaGE09u9RYqUJkXPIZFMzLNc/edit?usp=sharing)
+
 ## Presentation
 
 The project presentation is included in this repository.
